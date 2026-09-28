@@ -1,0 +1,7 @@
+pandas
+selenium
+webdriver-manager
+matplotlib
+seaborn
+nltk
+beautifulsoup4
